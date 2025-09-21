@@ -15,32 +15,32 @@ The primary objective of this dashboard is to provide a clear and concise overvi
 -Years at Company
 
 # Process
-## Get the Data 
+## Get the Data :
 Collect employee data (age, salary, department, job role, education, years in company, attrition)
 
-## Clean the Data:
+## Clean the Data :
 Remove mistakes/empty values.
 
 ## Make groups : 
 Age groups, Salary ranges, etc.
 
-## Create Calculations (DAX):
+## Create Calculations (DAX) :
 Total Employees.
 Attrition Count.
 Attrition Rate = Attrition ÷ Total Employees.
 Average Age, Salary, Years at Company.
 
-## Build Visuals:
+## Build Visuals :
 Cards : Overall employees, Attrition, Rate, Avg Age, Avg Salary, Years.
 Charts : Attrition by Age, Education, Salary, Years, Job Role.
 Donut/Bar/Line charts depending on what looks clear.
 
-## Format & Design:
+## Format & Design :
 Use a clean color theme.
 Add filters/slicers (e.g., Department, Gender).
 Arrange visuals neatly for easy reading.
 
-## Check & Share:
+## Check & Share :
 Verify numbers.
 Publish to Power BI Service.
 Share with HR team.
@@ -52,17 +52,7 @@ Share with HR team.
 ![Attrition dashboard](https://github.com/user-attachments/assets/c1554b29-3c5e-4797-b0ef-0e6f89773bb4)
 
 # Project Insights
-
-Overall Employees: 1470, with 237 attritions and 16.1% attrition rate.
-Age Factor: Highest attrition is in the 26–35 age group (young workforce leaving more).
-Education: Employees from Life Sciences (37.55%) and Medical (26.58%) background contribute the most to attrition.
-Salary: Most attrition happens in the lowest salary band (up to 5k) clear link between pay and resignations.
-Experience: Employees with 1 year of service show the highest attrition, early exits are common.
-Job Role: Sales Representatives and Laboratory Technicians face the highest attrition.
-Gender: Male attrition (140) is higher than female attrition (79).
+The HR Analytics dashboard shows that the organization has 1,470 employees, out of which 237 have left, giving an attrition rate of 16.1%. Most attrition is seen among employees aged 26–35, indicating younger staff are more likely to leave. Employees from Life Sciences and Medical backgrounds form the largest share of attrition, while those in Sales and Laboratory Technician roles are also highly affected. The data highlights that people with lower salary bands, especially up to 5k, and those with only one year of service, are leaving more often. Additionally, male employees show a higher attrition count compared to females. These patterns suggest that low pay, early-career challenges, and certain job roles contribute significantly to employee turnover.
 
 # Conclusion
-
-- High attrition is mainly among young, less-experienced, and low-paid employees.
-- Sales and technical roles need special focus for retention.
-- Improving salary packages, career growth opportunities, and employee engagement in the first year can help reduce attrition.
+The study shows that attrition is concentrated among young employees in low salary bands and early service years, especially in sales and technical roles. Focused interventions in pay structure, career development, and employee support during the first year can help improve retention.
