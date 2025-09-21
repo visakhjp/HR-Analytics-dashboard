@@ -40,7 +40,7 @@ Use a clean color theme.
 Add filters/slicers (e.g., Department, Gender).
 Arrange visuals neatly for easy reading.
 
-## Check & Share
+## Check & Share:
 Verify numbers.
 Publish to Power BI Service.
 Share with HR team.
