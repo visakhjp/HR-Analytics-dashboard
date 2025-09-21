@@ -17,11 +17,13 @@ The primary objective of this dashboard is to provide a clear and concise overvi
 
 # Process
 ## Get the Data 
+Collect employee data (age, salary, department, job role, education, years in company, attrition)
 
 ## Clean the Data:
 Remove mistakes/empty values.
 
-## Make groups : Age groups, Salary ranges, etc.
+## Make groups : 
+Age groups, Salary ranges, etc.
 
 ## Create Calculations (DAX):
 Total Employees.
