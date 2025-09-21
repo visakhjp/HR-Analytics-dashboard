@@ -51,5 +51,18 @@ Share with HR team.
 # Dashboard Image
 ![Attrition dashboard](https://github.com/user-attachments/assets/c1554b29-3c5e-4797-b0ef-0e6f89773bb4)
 
+# Project Insights
 
+Overall Employees: 1470, with 237 attritions and 16.1% attrition rate.
+Age Factor: Highest attrition is in the 26–35 age group (young workforce leaving more).
+Education: Employees from Life Sciences (37.55%) and Medical (26.58%) background contribute the most to attrition.
+Salary: Most attrition happens in the lowest salary band (up to 5k) clear link between pay and resignations.
+Experience: Employees with 1 year of service show the highest attrition, early exits are common.
+Job Role: Sales Representatives and Laboratory Technicians face the highest attrition.
+Gender: Male attrition (140) is higher than female attrition (79).
 
+# Conclusion
+
+- High attrition is mainly among young, less-experienced, and low-paid employees.
+- Sales and technical roles need special focus for retention.
+- Improving salary packages, career growth opportunities, and employee engagement in the first year can help reduce attrition.
