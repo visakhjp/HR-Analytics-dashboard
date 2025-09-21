@@ -13,7 +13,6 @@ The primary objective of this dashboard is to provide a clear and concise overvi
 -Average Age
 -Avg Salary
 -Years at Company
--Dashboard Interaction <a href="https://github.com/visakhjp/HR-Analytics-dashboard/blob/main/attrition.pbix">Dashboard</a>
 
 # Process
 ## Get the Data 
@@ -46,6 +45,7 @@ Verify numbers.
 Publish to Power BI Service.
 Share with HR team.
 
+# Dashboard Interaction <a href="https://github.com/visakhjp/HR-Analytics-dashboard/blob/main/attrition.pbix">Dashboard</a>
 
 # Dashboard Image
 ![Attrition dashboard](https://github.com/user-attachments/assets/c1554b29-3c5e-4797-b0ef-0e6f89773bb4)
