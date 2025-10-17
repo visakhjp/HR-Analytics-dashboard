@@ -16,12 +16,12 @@ The primary objective of this dashboard is to provide a clear and concise overvi
 
 # Process
 ## Get the Data :
-Collect employee data (age, salary, department, job role, education, years in company, attrition)
+Collected employee data (age, salary, department, job role, education, years in company, attrition)
 
-## Clean the Data :
-Remove mistakes/empty values.
+## Cleaning the Data :
+Removed mistakes/empty values.
 
-## Make groups : 
+## Making groups : 
 Age groups, Salary ranges, etc.
 
 ## Create Calculations (DAX) :
@@ -31,19 +31,19 @@ Attrition Rate = Attrition ÷ Total Employees,
 Average Age, Salary, Years at Company.
 
 ## Build Visuals :
-Cards : Overall employees, Attrition, Rate, Avg Age, Avg Salary, Years.
-Charts : Attrition by Age, Education, Salary, Years, Job Role.
+Cards : Overall employees, Attrition, Rate, Avg Age, Avg Salary, Years at company.
+Charts : Attrition by Age, Education, Salary, Years at company, Job Role.
 Donut/Bar/Line charts depending on what looks clear.
 
 ## Format & Design :
-Use a clean color theme.
-Add filters/slicers (e.g., Department, Gender).
-Arrange visuals neatly for easy reading.
+Used a clean color theme.
+Added filters/slicers (e.g., Department, Gender).
+Arranged visuals neatly for easy reading.
 
 ## Check & Share :
-Verify numbers.
-Publish to Power BI Service.
-Share with HR team.
+Verified numbers.
+Published to Power BI Service.
+Shared with HR team.
 
 # Dashboard Interaction 
 <a href="https://github.com/visakhjp/HR-Analytics-dashboard/blob/main/attrition.pbix">Dashboard</a>
