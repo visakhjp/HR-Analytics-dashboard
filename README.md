@@ -25,9 +25,9 @@ Remove mistakes/empty values.
 Age groups, Salary ranges, etc.
 
 ## Create Calculations (DAX) :
-Total Employees.
-Attrition Count.
-Attrition Rate = Attrition ÷ Total Employees.
+Total Employees,
+Attrition Count,
+Attrition Rate = Attrition ÷ Total Employees,
 Average Age, Salary, Years at Company.
 
 ## Build Visuals :
